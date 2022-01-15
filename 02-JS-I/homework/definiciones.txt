@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: las variables nos sirven para guardar algun tipo de dato, que sera utilizado mas adelante.
+ * Strings: son textos que siempre se encuentran dentro de comillas.
+ * Funciones (argumentos, `return`), las funciones nos sirven para simplificar nuestros codigo, escribimos menos codigo y el mismo se torna mas entendible. Podemos declarar argumentos, que nos sirven de datos para la ejecucion de la funcion, y dentro de ello tambien podemos ir definiendo otras variables. 
+ * Declaraciones `if`: las declaraciones siempre nos devuelven algo de la funcion.
+ * Valores booleanos (`true`, `false`): estos valores determinan si una condicion que declaramos, es verdadera o falsa. Segun esta evaluacion, la estructura del codigo realizara una u otra accion. 
